@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "772008185335",
+    "firebase_url": "https://heybrotestone-3a54c.firebaseio.com",
+    "project_id": "heybrotestone-3a54c",
+    "storage_bucket": "heybrotestone-3a54c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772008185335:android:92a9115e118363ce",
+        "android_client_info": {
+          "package_name": "com.example.aditya.heybro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772008185335-3kcssdg2287kik490b8cu2ngrsuag60a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditya.heybro",
+            "certificate_hash": "f8275113a4f531f0926d546576901330b46e125e"
+          }
+        },
+        {
+          "client_id": "772008185335-ernjd8g4nuh1j69j6pnu5k0hd52v9b4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4SYMpuEKypOHB2lKcRqF4f4LGclh_pM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772008185335-ernjd8g4nuh1j69j6pnu5k0hd52v9b4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
